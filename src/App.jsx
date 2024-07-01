@@ -41,8 +41,6 @@ function App() {
 					/>
 				))}
 			</section>
-
-			<section></section>
 		</>
 	);
 }
